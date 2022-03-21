@@ -7,6 +7,11 @@ I am currently studying Computer Science at CPH Business Academy. 📚
 - <a href="linkedin.com/in/maja-nøhr-nørgaard-339967207">LinkedIn</a> 
 - <a href="maja.norgaard@gmail.com">Email</a>
 
+### 💼 Worked with:
+- Java, JaveScript, MYSQL, React, C#, Gimp, Blender, HTML og CSS
+- Agile software development
+- Scrum
+
 ### 🌱 I'm currently learning
 - Nand2Tetris
 - Game Devolemnt
