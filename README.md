@@ -1,16 +1,14 @@
-### Welcome to my github 👋
+## 👋 Welcome to my github
 
-<!--
-**cph-mn605/cph-mn605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Maja Nøhr-Nørgaard and I am 22 years old.
+I am currently studying Computer Science. 📚
 
-Here are some ideas to get you started:
+### 🤝 Connect with me:
+- <a href="linkedin.com/in/maja-nøhr-nørgaard-339967207">LinkedIn</a> 
+- <a href="maja.norgaard@gmail.com">Email</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🌱 I'm currently learning
+- Nand2Tetris
+- Game Devolemnt
+- Security 
