@@ -4,7 +4,7 @@ My name is Maja Nøhr-Nørgaard and I am 23 years old.
 I am currently studying Computer Science at CPH Business Academy. 📚
 
 ### 💼 Workingplace
-Frontend developer at https://place2book.com/da/index
+- Frontend developer at https://place2book.com/da/index
 
 ### 🤝 Connect with me
 - <a href="linkedin.com/in/maja-nøhr-nørgaard-339967207">LinkedIn</a> 
